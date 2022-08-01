@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emanikor
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...structure programming
-- 💞️ I’m looking to collaborate on ...software enginering
+- 👀 I’m a front-end developer
+- 🌱 I’m currently learning.. javascript and front-end framework
+- 💞️ I’m looking to collaborate on..software enginering
 - 📫 How to reach me ...corneliusekai72@gmail.com
 
 <!---
