@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanikor
 - 👀 I’m a front-end developer
-- 🌱 I’m currently learning.. javascript and front-end framework
+- 🌱 skilled in javascript, react-js ,html,css
 - 💞️ I’m looking to collaborate on..software enginering
 - 📫 How to reach me ...corneliusekai72@gmail.com
 
