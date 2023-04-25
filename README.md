@@ -9,6 +9,6 @@ What I'm up to:
 
 👯 Looking to collaborate on frontend and creative projects.
 
-📫 How to reach me.corneliusekai72@gmail.com
+📫 How to reach me corneliusekai72@gmail.com
 
 
