@@ -1,5 +1,5 @@
 
-junior fullstack dev 
+Junior fullstack dev 
 python,javascripts
 
 
